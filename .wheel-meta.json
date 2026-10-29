@@ -1,0 +1,22 @@
+{
+  "wheel_id": 511,
+  "structure": "umbrella",
+  "slug": "rollerdoorsbrisbane-105",
+  "project": "roller-door-repairs-brisbane-red-flags-45e2e2e96127e88f387e96c3",
+  "parent_t1_ref": "rollerdoorsbrisbane-151",
+  "node_role": "feeder",
+  "money_target": "rollerdoorsbrisbane.com.au",
+  "primary_kw": "roller door repairs brisbane red flags",
+  "intended_url": "http://roller-door-repairs-brisbane-red-flags-45e2e2e96127e88f387e96c3.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "2a868e476db2f9b1",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/rollerdoorsbrisbane-151/",
+      "anchor": "Roller Door Repairs Brisbane Beginner Guide: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
